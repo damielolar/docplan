@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../cssfolder"
+		},
+		{
+			"path": "../group.css"
+		},
+		{
+			"path": "../Docplanner"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "index.html",
+		"liveServer.settings.port": 5501
+	}
+}
